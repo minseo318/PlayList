@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ASUS\Desktop\PlayList\PlayList\main.cpp(210,9): warning C4129: 'L': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  PlayList.vcxproj -> C:\Users\ASUS\Desktop\PlayList\x64\Debug\PlayList.exe
